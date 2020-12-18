@@ -1,6 +1,11 @@
-### Olá, meu nome é 
+v# Oi! Eu sou a Mari :D
 
-[<img src="../../MARIANA RÉGIA.png" alt="Me">]
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/regiamariana)](https://github.com/regiamariana)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-r%C3%A9gia-freitas-guirado-92369a198/)](https://www.linkedin.com/in/mariana-r%C3%A9gia-freitas-guirado-92369a198/)
+
+### Sobre mim
+Sou uma Desenvolvedora Web, com experiência em Javascript (React e React Native), CSharp, Banco de Dados (SSMS), e também uma técnica de Múltimídia em formação :)
+
 
 <!--
 **regiamariana/regiamariana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
