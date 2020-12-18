@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, meu nome é 
+
+[<img src="../../MARIANA RÉGIA.png" alt="Me">]
 
 <!--
 **regiamariana/regiamariana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
