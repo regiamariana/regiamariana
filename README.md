@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/regiamariana)](https://github.com/regiamariana)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-r%C3%A9gia-freitas-guirado-92369a198/)](https://www.linkedin.com/in/mariana-r%C3%A9gia-freitas-guirado-92369a198/)
 
-<img src="https://github.com/regiamariana/regiamariana/blob/main/MARIANA%20R%C3%89GIA.png">
+<img size="200px" src="https://github.com/regiamariana/regiamariana/blob/main/MARIANA%20R%C3%89GIA.png">
 
 ### Sobre mim
 Sou uma Desenvolvedora Web e também uma técnica de Múltimídia em formação :)
